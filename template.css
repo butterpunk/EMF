@@ -1,0 +1,39 @@
+.heros{
+	width: 100%;
+	height: 350px;
+
+}
+#navImage{
+	position: relative;
+	width: 25%;
+	height: auto;
+	margin: auto;
+	float: none;
+	display: block;
+}
+.header{
+	text-align: center;
+	margin:auto;
+	width: 100%;
+	background-color: #10426c;
+}
+.textSections{
+	position: relative;
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.mainContainer{
+	padding-top: 121px;
+}
+.header{
+position: fixed;
+}
+#header-container{
+	position: relative;
+}
+.navItems{
+	margin-left: 20px;
+	margin-right: 20px;
+	color: white;
+}
